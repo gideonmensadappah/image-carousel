@@ -1,0 +1,20 @@
+.carousel-container {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .carousel-image {
+    max-width: 50%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+
+  .btn {
+    cursor: pointer;
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+  }
